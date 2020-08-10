@@ -1,0 +1,39 @@
+#one{
+    display: grid;
+    background-color: #e7efec;
+    border-radius: 10px 100px / 140px;
+    grid-template-rows: 165px;
+    grid-template-columns: 20% 80%;
+    grid-template-areas:
+    "A1 A2";
+  }
+  
+  #two{
+    display: grid;
+    background-color: #e7efec;
+    border-radius: 10px 100px / 140px;
+    grid-template-rows: 165px;
+    grid-template-columns: 20% 80%;
+    grid-template-areas:
+    "A3 A4";
+  }
+  
+  #three{
+    display: grid;
+    background-color: #e7efec;
+    border-radius: 10px 100px / 140px;
+    grid-template-rows: 165px;
+    grid-template-columns: 20% 80%;
+    grid-template-areas:
+    "A5 A6";
+  }
+  
+  #four{
+    display: grid;
+    background-color: #e7efec;
+    border-radius: 10px 100px / 140px;
+    grid-template-rows: 165px;
+    grid-template-columns: 20% 80%;
+    grid-template-areas:
+    "A7 A8";
+  }
