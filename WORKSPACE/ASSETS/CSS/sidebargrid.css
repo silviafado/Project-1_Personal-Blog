@@ -1,0 +1,19 @@
+#receipes{
+    grid-area: re;
+  }
+  
+  #wellness{
+    grid-area: we;
+  }
+  
+  #fitness{
+    grid-area: fi;
+  }
+  
+  #restaurants{
+    grid-area: res;
+  }
+  
+  #travel{
+    grid-area: tr;
+  }
